@@ -1,0 +1,7 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377680190000 339845 b2d9f83181635731db297fd7c59a9049c5ccbffd D:\TestSamples\appcompat\libs\android-support-v7-appcompat.jar
+1377680190000 339845 b2d9f83181635731db297fd7c59a9049c5ccbffd D:\Workspace\NewsUpdate\libs\android-support-v7-appcompat.jar
+1379920102743 556198 4a6be13368bb64c5a0b0460632d228a1a915f58f D:\Workspace\NewsUpdate\libs\android-support-v4.jar
+1377680190000 556198 4a6be13368bb64c5a0b0460632d228a1a915f58f D:\TestSamples\appcompat\libs\android-support-v4.jar
